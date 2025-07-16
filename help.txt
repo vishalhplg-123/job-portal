@@ -63,3 +63,179 @@ PS C:\Users\visha\job portal\backend> npm run dev
 [nodemon] watching extensions: js,mjs,cjs,json
 [nodemon] starting `node index.js`
 server running at port 4000
+
+PS C:\Users\visha\job portal\backend> npm i multer
+
+added 17 packages, and audited 147 packages in 15s
+
+21 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\visha\job portal\backend> 
+
+
+
+PS C:\Users\visha\job portal> cd frontend
+PS C:\Users\visha\job portal\frontend> npm run dev
+
+> frontend@0.0.0 dev
+> vite
+
+5:54:24 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v6.3.5  ready in 1184 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+//shadcn ui with vite
+PS C:\Users\visha\job portal\frontend> npm install -D tailwindcss postcss autoprefixer
+
+added 159 packages, and audited 160 packages in 12s
+
+35 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+
+PS C:\Users\visha\job portal\frontend> npm install tailwindcss @tailwindcss/vite
+
+added 19 packages, and audited 179 packages in 4s
+
+38 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\visha\job portal\frontend> 
+
+
+
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add avatar
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add popover 
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add label
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add input
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add radio-group
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add sonner
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add carousel
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add badge
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add table
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add dialog
+PS C:\Users\visha\job portal\fronted> npm i redux-persist
+PS C:\Users\visha\job portal\fronted> npx shadcn@latest add select
+PS C:\Users\visha\job portal\fronted> npm i framer-motion
+
+
+
+
+
+
+
+
+
+
+S C:\Users\visha\job portal\fronted> npm i react-router-dom axios @reduxjs/toolkit react-redux
+PS C:\Users\visha\job portal\fronted> npm i @reduxjs/toolkit react-redux
+
+
+
+PS C:\Users\visha\job portal\backend> npm i cloudinary
+PS C:\Users\visha\job portal\backend> npm i datauri
+
+
+
+//resume pdf prblem 7:35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\visha\job portal> cd frontend
+PS C:\Users\visha\job portal\frontend> npm create vite@latest
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  .
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Scaffolding project in C:\Users\visha\job portal\frontend... 
+│
+└  Done. Now run:
+
+  npm install
+  npm run dev
+
+PS C:\Users\visha\job portal\frontend> npm install tailwindcss @tailwindcss/vite
+
+added 174 packages, and audited 175 packages in 12s
+
+36 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\visha\job portal\frontend> npm install
+
+up to date, audited 175 packages in 1s
+
+36 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\visha\job portal\frontend> npm run dev
+
+> frontend@0.0.0 dev
+> vite
+
+
+  VITE v6.3.5  ready in 671 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+
+
+
+
+
+
+
+
+
+ C:\Users\visha\job portal\frontend> npm i react-router-dom axios @reduxjs/toolkit react-redux
+
+added 35 packages, and audited 312 packages in 5s
+
+72 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\visha\job portal\frontend> 
